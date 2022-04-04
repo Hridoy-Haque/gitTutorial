@@ -1,12 +1,10 @@
 public class Hello{
     public static void main(String[] args){
         System.out.println("hello world");
-        display1("new git");
+        // messege("new git");
     }
-    public static void display1(String name){
-        System.out.println("welcome" + name);
+    public static void messege(){
+        System.out.println("we are not able to contribute open source");
     }
-    public static int sqr(int x){
-        return x*x ;
-    }
+    
 }
